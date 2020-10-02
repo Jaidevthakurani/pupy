@@ -93,7 +93,7 @@ All documentation can be found on the wiki.
 
 ## FAQ
 
-> Does the server work on windows?
+> Does the server work on Windows?
 
 Pupy has not been tested on Windows. Theoretically, it should work on any platform that supports Docker and Docker Compose. However, you will need to adapt the Docker Compose installation instructions for the Windows platform.
 
@@ -103,7 +103,7 @@ Pupy has not been tested on Windows. Theoretically, it should work on any platfo
 2. Search the Github issues and see if your issue was already solved.
 3. If you issue was not solved, open a new issue following the [issue guidelines](https://github.com/n1nj4sec/pupy/wiki/Issue-Guidelines).
 
-If you do not follow these steps, you issue will be closed.
+If you do not follow these steps, your issue will be closed.
 
 > Android and/or Mac OSX payloads and modules don't work.
 
@@ -126,4 +126,4 @@ This project is a [personal development](https://en.wikipedia.org/wiki/Personal_
 
 ## Special thanks
 
-Special thanks to all contributors that help improve pupy and make it a better tool! :)
+Special Thanks to all contributors that help improve pupy and make it a better tool! :)
